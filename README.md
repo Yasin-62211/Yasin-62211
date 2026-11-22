@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="images/123.png"
-       width="100%" alt="Environmental Banner">
+  <img src="123.png"
+       width="100%"
+    alt="Environmental Banner">
 </p>
 
 <h1 align="center">MD YASIN 🌿</h1>

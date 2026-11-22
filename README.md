@@ -46,7 +46,7 @@ project assessment.
 - Biodiversity Conservation
 - Pollution Control and Waste Management
 
-## 🔬 Research Interests
+## 🔬 Research & Project Interests
 
 - Water Quality Assessment
 - Environmental Pollution Analysis
@@ -72,7 +72,7 @@ will be showcased here.
 ### 📘 Current Education
 **Bachelor of Science in Computer Science and Engineering (CSE)**
 
-Hamdard University, Bangladesh
+Hamdard University Bangladesh
 
 Currently pursuing my undergraduate studies.
 

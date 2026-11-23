@@ -7,8 +7,12 @@
 <h1 align="center">MD YASIN 🌿</h1>
 
 <h3 align="center">
-Environmental Science Student
+Computer Science & Civil Protection Student
 </h3>
+
+<p align="center">
+Environmental Science & Civil Protection
+</p>
 
 <p align="center">
 Aspiring Environmental & Social Impact Assessment

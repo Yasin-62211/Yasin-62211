@@ -29,9 +29,9 @@ Supporting Responsible Development
 ## 🌍 About Me
 
 Hello! I am MD Yasin, an Environmental Science and
-Civil Protection student interested in environmental
-sustainability, environmental assessment, and
-social impact studies.
+Civil Protection student interested in Environmental
+Sustainability, Environmental Assessment, and
+Social impact studies.
 
 My long-term goal is to become an Environmental
 and Social Impact Assessment (ESIA) Specialist

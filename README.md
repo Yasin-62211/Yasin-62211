@@ -7,7 +7,7 @@
 <h1 align="center">MD YASIN 🌿</h1>
 
 <h3 align="center">
-Computer Science & Civil Protection Student
+Computer Science & Engineering Student
 </h3>
 
 <p align="center">

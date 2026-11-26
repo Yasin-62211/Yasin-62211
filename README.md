@@ -11,7 +11,7 @@ Computer Science & Engineering Student
 </h3>
 
 <p align="center">
-Environmental Science & Civil Protection
+Environmental Science & Civil Protection | Academic Interests & Projects
 </p>
 
 <p align="center">
@@ -28,13 +28,13 @@ Supporting Responsible Development
 
 ## 🌍 About Me
 
-Hello! I am MD Yasin, an Environmental Science and
+Hello! I am MD YASIN, an Environmental Science and
 Civil Protection student interested in Environmental
 Sustainability, Environmental Assessment, and
 Social impact studies.
 
 My long-term goal is to become an Environmental
-and Social Impact Assessment (ESIA) Specialist
+& Social Impact Assessment (ESIA) Specialist
 in Bangladesh.
 
 I am passionate about environmental protection,

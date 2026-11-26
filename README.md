@@ -83,7 +83,7 @@ Currently pursuing my undergraduate studies.
 ### 🌍 Intended Higher Studies
 **Bachelor's in Environmental Science & Civil Protection**
 
-**Università Politecnica delle Marche (UNIVPM), Italy**
+**🇮🇹 Università Politecnica delle Marche (UNIVPM), Italy**
 
 Aspiring to pursue higher education in Environmental
 Science & Civil Protection, with a strong interest

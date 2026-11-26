@@ -11,7 +11,7 @@ Computer Science & Engineering Student
 </h3>
 
 <p align="center">
-🇮🇹 Aspiring to pursue B.S.C in Environmental Science & Civil Protection
+🇮🇹 Aspiring to Pursue B.S.C in Environmental Science & Civil Protection at
 Università Politecnica delle Marche (UNIVPM), Italy 🇮🇹 
 </p>
 

@@ -11,12 +11,13 @@ Computer Science & Engineering Student
 </h3>
 
 <p align="center">
-Environmental Science & Civil Protection | Academic Interests & Projects
+🇮🇹 Aspiring to pursue B.S.C in Environmental Science & Civil Protection
+Università Politecnica delle Marche (UNIVPM), Italy 🇮🇹 
 </p>
 
 <p align="center">
 Aspiring Environmental & Social Impact Assessment
-(ESIA) Specialist | Bangladesh
+(ESIA) Specialist | Bangladesh 🇧🇩
 </p>
 
 <p align="center">

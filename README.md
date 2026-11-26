@@ -28,7 +28,7 @@ Supporting Responsible Development
 
 ## 🌍 About Me
 
-Hello! I am MD YASIN, an Environmental Science and
+Hello! I am MD YASIN, an Environmental Science &
 Civil Protection student interested in Environmental
 Sustainability, Environmental Assessment, and
 Social impact studies.
@@ -43,12 +43,12 @@ project assessment.
 
 ## 🎯 Career Interests
 
-- Environmental and Social Impact Assessment (ESIA)
+- Environmental & Social Impact Assessment (ESIA)
 - Environmental Impact Assessment (EIA)
 - Environmental Management and Monitoring
-- Climate Change and Sustainability
+- Climate Change & Sustainability
 - Biodiversity Conservation
-- Pollution Control and Waste Management
+- Pollution Control & Waste Management
 
 ## 🔬 Research & Project Interests
 
@@ -74,19 +74,19 @@ will be showcased here.
 ## 🎓 Education
 
 ### 📘 Current Education
-**Bachelor of Science in Computer Science and Engineering (CSE)**
+**Bachelor of Science in Computer Science & Engineering (CSE)**
 
 Hamdard University Bangladesh
 
 Currently pursuing my undergraduate studies.
 
 ### 🌍 Intended Higher Studies
-**Bachelor's in Environmental Science and Civil Protection**
+**Bachelor's in Environmental Science & Civil Protection**
 
-Università Politecnica delle Marche (UNIVPM), Italy
+**Università Politecnica delle Marche (UNIVPM), Italy**
 
 Aspiring to pursue higher education in Environmental
-Science and Civil Protection, with a strong interest
+Science & Civil Protection, with a strong interest
 in environmental sustainability, impact assessment,
 and sustainable development.
 
